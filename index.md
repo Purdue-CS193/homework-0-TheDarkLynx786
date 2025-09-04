@@ -13,4 +13,4 @@
 - should have written this in HTML or something I could have added a script tag and made a fun little animation using JS
 - but nobody likes JS so it's valid
 
-Self-promo: you should check out my website (not this one, this one --> thedarklynx.com)! Keep an eye out for it in the next 2 weeks it will look SO much better!!
+Self-promo: you should check out my website (not this one, --> [this one](https://thedarklynx.com))! Keep an eye out for it in the next 2 weeks it will look SO much better!!
