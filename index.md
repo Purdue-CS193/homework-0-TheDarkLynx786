@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Murtaza Haque's First CS19300 Homework Assignment
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Favorite things about CS 19300 so far
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## This is a bulleted list! (such wow)
+- Terminal commands
+- That's kind of it for now really
+- I already kind of knew most of the terminal commands thanks to WSL usage and CTF challenges
+- but I guess learning emacs was fun
+- uhhh yeah that's it cool class
+- it's hosted in a cool room
+- the room has a big mirror on the ceiling for some reason
+- should have written this in HTML or something I could have added a script tag and made a fun little animation using JS
+- but nobody likes JS so it's valid
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Self-promo: you should check out my website (not this one, this one --> thedarklynx.com)! Keep an eye out for it in the next 2 weeks it will look SO much better!!
